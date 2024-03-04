@@ -1,2 +1,5 @@
 New change
 New change (for branch2)
+New change (for branch2)
+
+New Line
